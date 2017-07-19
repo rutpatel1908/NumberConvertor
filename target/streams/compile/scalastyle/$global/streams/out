@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\Profile\Downloads\NumberConvertor\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:28: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:16:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:17:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:18:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:19:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:20:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:20:72: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:21:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:21:72: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:22:11: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:22:72: Magic Number[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:12:6: Cyclomatic complexity of 11 exceeds max of 10[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala:28:9: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\Profile\Downloads\NumberConvertor\src\main\scala\Convertor.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala:1: Header does not match expected text[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala:11:45: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala:13:33: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala:19:41: Regular expression matched 'println'[0m
+[0m[[33mwarn[0m] [0mC:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala:22:23: Regular expression matched 'println'[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\Profile\Downloads\NumberConvertor\src\main\scala\NumberConvertor.scala[0m
+[0m[[0minfo[0m] [0mscalastyle Processed 2 file(s)[0m
+[0m[[0minfo[0m] [0mscalastyle Found 0 errors[0m
+[0m[[0minfo[0m] [0mscalastyle Found 19 warnings[0m
+[0m[[0minfo[0m] [0mscalastyle Found 0 infos[0m
+[0m[[0minfo[0m] [0mscalastyle Finished in 15 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\Profile\Downloads\NumberConvertor\target[0m
